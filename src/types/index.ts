@@ -9,3 +9,9 @@ export enum Command {
   SQUARE = "draw_square",
   PRINT_SCREEN = "prnt_scrn",
 }
+
+export enum OS {
+  MAC = "Darwin",
+  LINUX = "Linux",
+  WINDOWS = "Windows_NT",
+}
